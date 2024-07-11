@@ -5,3 +5,6 @@ In the video, 3 alphabets are detected using CNN model. The alphabets are "O","L
 
 https://github.com/Arsalan1224/ASL-Recognition-Using-Deep-Learning/assets/141341599/b1113dbc-58ac-44fe-9e63-f21f507959e3
 
+The dataset used is collected from Kaggle, uploaded by LEXSET.
+The link of dataset is 
+https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet
